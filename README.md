@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://kramitsingh03.github.io/my-portfolio/](https://kramitsingh03.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available at [https://kramitsingh03.github.io/my-portfolio/](https://kramitsingh03.github.io/portfolio/)
 
 - 💬 Ask me about **Front End**
 
